@@ -65,4 +65,6 @@ export default function FollowClient({ targetUserId, isFollowing }: Props) {
             </button>
         )
     }
+
+
 }
